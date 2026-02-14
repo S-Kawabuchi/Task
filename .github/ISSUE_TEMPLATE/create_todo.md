@@ -7,9 +7,17 @@ projects: 'S-Kawabuchi/MyToDo'
 assignees: 'S-Kawabuchi'
 
 ---
+## 💡 概要 (Task Summary)
+* 何をするタスクか（一言で）
+* なぜやるか
 
-# 期日
-# 概要
-# 詳細
-# タスク
-- [ ] 細かいタスクに分解できているなら書き出す
+## ⏰ 期限 (Deadline)
+* [ ] 202X-MM-DD までに完了
+
+## 📋 手順・チェックリスト (Steps)
+- [ ] 手順1
+- [ ] 手順2
+- [ ] 手順3
+
+## 🔗 関連情報・メモ (Memo)
+* 参考URLやメモなど
