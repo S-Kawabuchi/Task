@@ -1,9 +1,11 @@
 ---
+
 name: New ToDo
 title:  "[DATE]: [FEATURE NAME]"
 labels: 'ToDo'
 projects: 'S-Kawabuchi/MyToDo'
 assignees: 'S-Kawabuchi'
+
 ---
 
 # 期日
