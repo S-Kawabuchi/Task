@@ -1,0 +1,5 @@
+blank_issues_enabled: false # 空のissueを無効化
+contact_links:
+  - name: 質問がある場合
+    url: https://github.com
+    about: こちらで質問してください
