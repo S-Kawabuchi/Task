@@ -11,7 +11,7 @@ assignees: 'S-Kawabuchi'
 * 何をするタスクか（一言で）
 * なぜやるか
 
-## ⏰ 期限 (Deadline)
+## ⏰ 期限 (Expired)
 * [ ] 202X-MM-DD までに完了 ※FMT：YYYY-MM-DD
 
 ## 📋 手順・チェックリスト (Steps)
